@@ -4,12 +4,12 @@
 
 layout: home
 ---
-Python North West are a Python user group based in Manchester. We meet on the third Thursday of each month to discuss all things Python. Open to Pythonistas of all ages and experience levels for talks, discussion and occassional coding.
+Python North West is a Python user group based in Manchester.
 
-To find out about our upcoming events, find us on [Meetup](https://www.meetup.com/Python-North-West-Meetup/).
+We're currently looking for a venue to get restarted after a long period of absence following COVID-19.
 
-Our Meetups rely on input from our dedicated and enthusiastic community. If you would like to help us put on an event by volunteering to do a talk, run a workshop, or lead a code session, please let us know using the [Sign Up Form](https://forms.gle/SbxhHN6XessL3JcA6).
+If you can help provide a venue suitable for meetups and talks, please get in touch: **ben [at] bennuttall [dot] com**
 
-If leading a session isn't for you, but you have an idea of a topic you'd be interested in attending a Meetup on, let us know on Meetup, via Twitter, or email.
+Due to extortionate rising costs we have left Meetup.com - so please watch this space (and our new social channels) for updates.
 
-<a class="twitter-timeline" data-tweet-limit="3" data-width="400" show-replies="false" href="https://twitter.com/pythonnw?ref_src=twsrc%5Etfw">pythonnw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+Mastodon: https://mastodon.social/@pynw
