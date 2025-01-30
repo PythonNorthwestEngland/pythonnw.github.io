@@ -12,4 +12,5 @@ If you can help provide a venue suitable for meetups and talks, please get in to
 
 Due to extortionate rising costs we have left Meetup.com - so please watch this space (and our new social channels) for updates.
 
-Mastodon: https://mastodon.social/@pynw
+- Mastodon: [https://mastodon.social/@pynw](https://mastodon.social/@pynw)
+- Twitter/X: [https://x.com/pythonnorthwest](https://x.com/pythonnorthwest)
