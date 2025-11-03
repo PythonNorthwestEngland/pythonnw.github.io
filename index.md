@@ -6,7 +6,7 @@ layout: home
 ---
 Python North West is a Python user group based in Manchester.
 
-We're looking to get the group restarted uin January 2026 after a long period of absence following COVID-19.
+We're looking to get the group restarted in January 2026 after a long period of absence following COVID-19.
 
 If you would  meetups and talks, please get in touch: **ben [at] bennuttall [dot] com**
 
